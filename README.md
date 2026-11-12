@@ -11,11 +11,13 @@ The model aims to simulate how geographical maritime bottlenecks naturally lead 
 - **Temporal scale:** Abstract simulation ticks representing the LH IIIC post-palatial transition.
 
 \`\`\`
+
 model/       → NetLogo model files (.nlogo)
 data/        → Input datasets (CSV, shapefiles, etc.)
 results/     → Simulation outputs
 analysis/    → R scripts for network and centrality analysis
 docs/        → Documentation and notes
+
 \`\`\`
 
 
