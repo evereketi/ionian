@@ -16,3 +16,20 @@ data/        → Input datasets (CSV, shapefiles, etc.)
 results/     → Simulation outputs
 analysis/    → R scripts for network and centrality analysis
 docs/        → Documentation and notes
+
+1. [NetLogo](https://ccl.northwestern.edu/netlogo/)
+2. [R](https://www.r-project.org/) (optional, for spatial network analysis)
+
+1. Open `model/ionian_trade_v1.nlogo` in NetLogo.  
+2. Use the Interface tab to initialise and run the simulation.  
+3. Use **BehaviorSpace** (NetLogo menu → Tools → BehaviorSpace) to run batch experiments.  
+4. Store output files in the `results/` folder for later analysis.
+
+Simulation results will include key indicators such as settlement carrying capacity (population) and prestige goods accumulation. Analysis scripts in `analysis/` will generate plots comparing the emergent social patterns to the LH IIIC archaeological record.
+
+This project is licensed under the [LICENSE](LICENSE) file included in the repository.
+
+If you use or adapt this model, please cite:
+> Vereketi, Ermioni. (2026). *ionian: An agent-based model of LH IIIC maritime trade*. Version 0.1. DOI: [https://doi.org/10.5281/zenodo.24163003](https://doi.org/10.5281/zenodo.24163003)
+
+This work was developed as part of the course *Agent-based Modelling for Archaeologists: From Concept to Application and Publication*, taught by Andreas Angourakis at the University of Cologne.
