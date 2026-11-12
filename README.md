@@ -17,6 +17,8 @@ results/     → Simulation outputs
 analysis/    → R scripts for network and centrality analysis
 docs/        → Documentation and notes
 \`\`\`
+
+
 1. [NetLogo](https://ccl.northwestern.edu/netlogo/)
 2. [R](https://www.r-project.org/) (optional, for spatial network analysis)
 
