@@ -20,7 +20,7 @@ docs/        → Documentation and notes
 
 
 1. [NetLogo](https://ccl.northwestern.edu/netlogo/)
-2. [R](https://www.r-project.org/) (optional, for spatial network analysis)
+2. [R](https://www.r-project.org/) 
 
 1. Open `model/ionian_trade_v1.nlogo` in NetLogo.  
 2. Use the Interface tab to initialise and run the simulation.  
