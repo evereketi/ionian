@@ -10,15 +10,13 @@ The model aims to simulate how geographical maritime bottlenecks naturally lead 
 - **Key processes:** Maritime traffic movement, bottleneck interception, population attraction, and wealth accumulation (imports).
 - **Temporal scale:** Abstract simulation ticks representing the LH IIIC post-palatial transition.
 
-\`\`\`
-
+```text
 model/       → NetLogo model files (.nlogo)
 data/        → Input datasets (CSV, shapefiles, etc.)
 results/     → Simulation outputs
-analysis/     → R scripts for analysis
+analysis/    → R scripts for network and centrality analysis
 docs/        → Documentation and notes
-
-\`\`\`
+```
 
 
 1. [NetLogo](https://ccl.northwestern.edu/netlogo/)
