@@ -18,7 +18,7 @@ results/     → Simulation outputs
 analysis/    → R scripts for network and centrality analysis
 docs/        → Documentation and notes
 
-```text
+text```
 
 
 1. [NetLogo](https://ccl.northwestern.edu/netlogo/)
