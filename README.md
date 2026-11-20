@@ -32,6 +32,6 @@ Simulation results will include key indicators such as settlement carrying capac
 This project is licensed under the [LICENSE](LICENSE) file included in the repository.
 
 If you use or adapt this model, please cite:
-> Vereketi, Ermioni. (2026). *Ionian & Andriatic: An agent-based model of LHIIIC maritime trade*. Version 0.1. DOI: [https://doi.org/10.5281/zenodo.24163003](https://doi.org/10.5281/zenodo.24163003)
+> Vereketi, Ermioni. (2026). *Ionian & Adriatic: An agent-based model of LHIIIC maritime trade*. Version 0.1. DOI: [https://doi.org/10.5281/zenodo.24163003](https://doi.org/10.5281/zenodo.24163003)
 
 This work was developed as part of the course *Agent-based Modelling for Archaeologists: From Concept to Application and Publication*, taught by Andreas Angourakis at the University of Cologne.
