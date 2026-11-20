@@ -1,7 +1,7 @@
 # ionian
 [![DOI](https://zenodo.org/badge/1455219930.svg)](https://doi.org/10.5281/zenodo.24163002)
 
-This project develops an agent-based model that explores the relationship between maritime geography, resource control, and emergent social structures in the Late Helladic IIIC Ionian and Adriatic seas.
+This project develops an agent-based model that explores the relationship between maritime geography, resource control and emergent social structures in the LHIIIC Ionian and Adriatic seas.
 
 The model aims to simulate how geographical maritime bottlenecks naturally lead to localized power centers. It is designed as an exploratory test to help investigate if social structures emerge organically from socially blind environmental conditions.
 
